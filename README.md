@@ -2,6 +2,7 @@
 
 ## Aim
 > Write a C++ program to print "Hello, World!"
+
 > Make a simple calculator to do addition, subtraction, multiplication, and division
 
 ## Objectives
@@ -16,11 +17,17 @@
 ## Program Explanation
 ### Basic Operations and Terms used
 > #include <iostream> tells the computer to use input and output functions
+
 > using namespace std; lets us use cout and cin easily (no need to write std::everytime)
+
 > int main() is the starting point of every C++ program.
+
 > return 0; means the program implemented successfully.
+
 > cout is used to print something on screen
+
 > cin is used to take input from the user
+
 > if-else(conditional statements) helps us decide what to do based on conditions (true/false)
 
 ### Program execution 
