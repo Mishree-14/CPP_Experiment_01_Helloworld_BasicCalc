@@ -34,4 +34,16 @@
 - +, -, *, / → to do math
 - float → to store numbers with decimals
 - // → to write comments
- -if-else → to make decisions (if needed)
+- if-else → to make decisions (if needed)
+- Every statement in C++ ends with a semicolon (;)
+ 
+## Sample Output
+```
+Hello World
+Enter num1 :	54
+Enter num_2 :	89
+Sum :143
+Difference :-35
+Product :4806
+Division :0.606742
+```
