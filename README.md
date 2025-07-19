@@ -20,7 +20,7 @@
 > cin is used to take input from the user
 > if-else(conditional statements) helps us decide what to do based on conditions (true/false)
 
-### Program execution terms 
+### Program execution 
 1) We use cout to print: "Hello, World!"
 2) Then we make a calculator:
 3) We take two numbers from the user using cin
