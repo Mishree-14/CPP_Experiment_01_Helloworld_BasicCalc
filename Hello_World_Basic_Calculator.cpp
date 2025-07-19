@@ -5,8 +5,7 @@ using namespace std;
 
 
 int main() {
-	float num_1, num_2, sum, diff, quot;
-	long float prod;
+	float num_1, num_2, sum, diff, prod, quot;
 	cout << "Hello World" << endl;
 
 	cout << "Enter num1 :" << "\t";
