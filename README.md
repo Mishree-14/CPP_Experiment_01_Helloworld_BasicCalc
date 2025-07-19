@@ -6,8 +6,11 @@
 
 ## Objectives
 🔹 Learn how a C++ program starts and works
+
 🔹 Use 'cout' to print output and 'cin' to take input
+
 🔹 Know why we use 'using namespace std;'.
+
 🔹 Use of // to write comments in code for better understanding of code.
 
 ## Program Explanation
