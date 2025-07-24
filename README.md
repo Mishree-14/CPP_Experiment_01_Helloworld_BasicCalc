@@ -14,6 +14,33 @@
 
 🔹 Use of // to write comments in code for better understanding of code.
 
+## Theory
+#### Why C++ is better than C?
+C++ is better than C because it has more useful features that make programming easier and more powerful. It supports object-oriented programming, which helps in writing clean, organized, and reusable code. C++ allows the use of classes, function overloading, and better error handling. It also has a Standard Template Library (STL) for faster coding. Overall, C++ is better for building large, complex, and user-friendly programs compared to C.
+
+#### C++ Program Basics 
+#include <iostream>: Adds the input-output library to the code
+
+using namespace std;: Allows using cin and cout directly
+
+int main(): Starting point of every C++ program
+
+return 0;: Marks the end of the program successfully
+
+cout: Used to print/output data to the screen
+
+cin: Used to take input from the user
+
++, -, *, /: Arithmetic operators used for calculator functions
+
+float: Data type used to store decimal numbers
+
+if-else: Used to make decisions in code (if required)
+
+//: Used to add comments to explain code
+
+Every C++ statement ends with a semicolon (;)
+
 ## Program Explanation
 ### Basic Operations and Terms used
 > #include <iostream> tells the computer to use input and output functions
